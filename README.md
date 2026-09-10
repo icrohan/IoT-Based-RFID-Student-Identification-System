@@ -3,6 +3,8 @@
 # 📡 **Smart RFID Attendance & Access System**
 
 > ### 🚪 **A Product-Style IoT Solution for Smart Attendance & Access Management**
+> <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/88b8d527-c3fc-46b7-9c8e-6736ccd9094c" />
+
 
 A **real-world RFID-based identification system** built using **ESP32 and RC522**, designed and integrated into a **compact enclosed unit installed at a doorway**.
 
@@ -30,7 +32,8 @@ Electronics integrated into a **protective enclosure** and installed near a door
 📊 **Attendance & Access Ready**
 Designed as a foundation for **automated attendance and access management**.
 
----
+---<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b8704a10-0407-44e7-8a4b-16736dba44b2" />
+
 
 ## 🏗️ **System Architecture**
 
